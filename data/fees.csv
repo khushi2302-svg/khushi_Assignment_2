@@ -1,0 +1,4 @@
+student_id,total_fee,paid_amount,due_date,status
+STU1001,240000,180000,2026-11-15,Partially Paid
+STU1002,250000,250000,2026-11-15,Paid
+STU1003,235000,235000,2026-09-30,Paid

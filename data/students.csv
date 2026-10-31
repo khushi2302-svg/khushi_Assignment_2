@@ -1,0 +1,4 @@
+student_id,full_name,programme,year,email,department
+STU1001,Aarav Shah,PGDM Business Analytics,1,aarav@example.edu,Management
+STU1002,Diya Patel,PGDM AI and Data Science,1,diya@example.edu,Data Science
+STU1003,Kabir Mehta,PGDM Business Analytics,2,kabir@example.edu,Management

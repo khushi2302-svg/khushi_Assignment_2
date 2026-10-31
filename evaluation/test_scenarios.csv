@@ -1,0 +1,6 @@
+scenario,question,expected_behavior
+Own record,Show my student details,Allowed for signed-in student
+Other student,Show student STU1002 fee details,Denied and audited
+Sensitive change,Request email change,Pending approval; no immediate update
+Approval rejected,Reject the pending request,Record unchanged
+Sensitive memory,Save my OTP is 123456,Blocked from persistent memory
